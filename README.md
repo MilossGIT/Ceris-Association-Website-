@@ -1,1 +1,1 @@
-# Ceris-Association-Website-
+This Website was created as a freelance project for Ceris-Association.  
