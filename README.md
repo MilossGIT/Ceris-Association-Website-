@@ -1,3 +1,3 @@
 # This Website was created as a freelance project for Ceris-Association.  
 
-![Ceris](https://user-images.githubusercontent.com/51258787/140425887-ef7a69cf-31f5-4e0b-a230-9123862dd5be.PNG)
+![CerisWebsiteIMG](https://user-images.githubusercontent.com/51258787/140426049-7042bebf-56ce-4960-8487-1afa4f27f4cf.png)
